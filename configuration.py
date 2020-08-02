@@ -11,7 +11,7 @@ block_size = 1
 apple_size = 1
 speed = 20
 
-maxIt = 100
+maxIt = 10000000
 gen = 1
 Graphics = False
 # Config for the NN
